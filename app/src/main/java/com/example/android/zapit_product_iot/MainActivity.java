@@ -1,4 +1,4 @@
-package com.example.android.fintech_hackathon_iot;
+package com.example.android.zapit_product_iot;
 
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
